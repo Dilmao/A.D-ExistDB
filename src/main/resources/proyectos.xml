@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>1</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment />
+   <ss:Font ss:Bold="1" ss:Color="#0000FF" ss:FontName="Arial" ss:Size="18" ss:Italic="1" />
+   <ss:NumberFormat />
+   <ss:Protection ss:Protected="1" x:HideFormula="0" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="proyectos">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="12.75" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="20" ss:ExpandedColumnCount="7">
+   <Row ss:Index="1">
+    <Cell><Data ss:Type="String">CENTRO COORDINADOR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">TÍTULO DEL PROYECTO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">AUTORIZACIÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CONTINUIDAD</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">COORDINACIÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CONTACTO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CENTROS ANEXIONADOS</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell><Data ss:Type="String">IES MARTÍNEZ VARGAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RENOVABLES CON SOLAR-FOTOVOLTAICA PARA EL CULTIVO DE TOMATE ROSA Y VIÑA MEDIANTE BOMBEO CON TELECONTROL</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell><Data ss:Type="String">IES FRANCES DE ARANDA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DISEÑO, DESARROLLO, IMPLANTACION Y EJECUCION DE PRACTICAS SOSTENIBLES (BIOCONSTRUCCION Y ECODISEÑO) EN EL SECTOR DE LA MADERA Y MUEBLE</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell><Data ss:Type="String">CPIFP PIRÁMIDE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CLUB PIRÁMIDE. GESTIÓN, ENTRENAMIENTO Y COMPETICIÓN DE UN EQUIPO DE FÚTBOL EN UN CONTEXTO REAL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolucion 20/12/2021</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">José Antonio Torres Santolaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">josean.torres@fppiramide.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">IES ÍTACA&#10;IES FRANCÉS DE ARANDA&#10;(Resolución 12/03/2022)</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell><Data ss:Type="String">CPIFP CORONA DE ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">APLICACIÓN DE LAS NUEVAS TECNOLOGÍAS DIGITALES PARA EL LEVANTAMIENTO CON SCANER LASER 3D, DEL MONASTERIO DE CANONESAS DEL SANTO SEPULCRO APLICADO A LOS PROCESOS DE DOCUMENTACIÓN Y ANÁLISIS DEL PATRIMONIO ARQUITECTÓNICO CONSTRUIDO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 15/11/2021</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">María del Mar Cenalmor Saez</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">mariadelmar.cenalmor@gmail.com</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell><Data ss:Type="String">CPIFP MOVERA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PROD. Y APROVECHAMIENTO IND. PLANTAS AROMÁTICAS PLANTAROMED</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 22/09/2021</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ruth Cuevas Calvo</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">rcuevas@cpifpmovera.es</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell><Data ss:Type="String">CPIFP SAN BLAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ECONOMIA CIRCULAR Y BIOECONOMIA EN EL CPIFP SAN BLAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 02/07/2021</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Patricia Sisó Terraza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">psiso@cpifpsanblas.es</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell><Data ss:Type="String">CIFPA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RAÍCES: INVESTIGACIÓN, CULTIVO Y COCINA EN FP</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 12/03/2022</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Trini Albesa Sastre</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">talbesa@cifpa.aragon.es</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell><Data ss:Type="String">CPIFP MOVERA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LA SEMITECA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">IES ÍTACA&#10;IES PILAR LORENGAR&#10;IES VALLE DEL JILOCA</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell><Data ss:Type="String">CPIFP SAN LORENZO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ACTUALIZACIÓN TECNOLÓGICA EN HOSTELERÍA Y TURISMO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">CPIFP MONTEARAGÓN&#10;CPIFP PIRÁMIDE</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell><Data ss:Type="String">CPIFP BAJO ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CUÍDATE, CUÍDALE: TRABAJANDO LA CONVIVENCIA Y EL BIENESTAR EN FP</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">CPIFP MOVERA&#10;CPIFP MONTEARAGÓN</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell><Data ss:Type="String">CPIFP EHT TERUEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DIGITALIZACIÓN DE NUESTRO RESTAURANTE SOSTENIBLE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">CPIFP SAN BLAS</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell><Data ss:Type="String">IES FRANCES DE ARANDA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARQUITECTURA DE LA INFORMACIÓN: LA TECNOLOGÍA ACCESIBLE E INCLUSIVA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">IES SEGUNDO DE CHOMÓN</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell><Data ss:Type="String">CPIFP LOS ENLACES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PLAYARAGON</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">IES MARTÍNEZ VARGAS&#10;IES RAMÓN Y CAJAL</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell><Data ss:Type="String">CPIFP LOS ENLACES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">INDUSTRIA 4.0: AULA INTELIGENTE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">IES ÍTACA&#10;CPIFP PIRÁMIDE</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="16">
+    <Cell><Data ss:Type="String">IES MAR DE ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DE LA TIERRA A LA MESA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="17">
+    <Cell><Data ss:Type="String">IES MAR DE ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FINCA Y COLMENAS INTELIGENTES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">CPIFP PIRÁMIDE</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell><Data ss:Type="String">IES MIRALBUENO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ESTACIÓN DE CARGA SOLAR PARA 28 PATINES ELÉCTRICOS DEL ALUMNADO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell><Data ss:Type="String">CPIFP MONTEARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">REALIDAD VIRTUAL PARA EL APRENDIZAJE DE LA DETECCIÓN DE INCENDIOS FORESTALES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">CPIFP MOVERA&#10;CPIFP SAN BLAS</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="20">
+    <Cell><Data ss:Type="String">IES SAN ALBERTO MAGNO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FP2: FACTORÍA DE PROYECTOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Resolución 01/07/2022</Data>
+    </Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">CPIFP LOS ENLACES</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Evaluation Warning">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="12.75" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="5" ss:ExpandedColumnCount="1">
+   <Row ss:Index="5" ss:Height="23.25">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Evaluation Only. Created with Aspose.Cells for Java.Copyright 2003 - 2022 Aspose Pty Ltd.</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

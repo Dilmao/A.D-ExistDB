@@ -1,0 +1,5174 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>1</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment />
+   <ss:Font ss:Bold="1" ss:Color="#0000FF" ss:FontName="Arial" ss:Size="18" ss:Italic="1" />
+   <ss:NumberFormat />
+   <ss:Protection ss:Protected="1" x:HideFormula="0" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="CentrosCFGMyS">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="12.75" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="199" ss:ExpandedColumnCount="13">
+   <Row ss:Index="1">
+    <Cell><Data ss:Type="String">DISTANCIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PROVINCIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LOCALIDAD</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CODIGO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DENOM.CORTA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">NOMBRE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DENOMINACION</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DIRECCION</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">NATURALEZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">TELEFONO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CORREO ELECTRONICO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">WEB</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CODIGO POSTAL</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003247</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FRANCÉS DE ARANDA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. ATARAZANAS, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 60 25 42</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesfrateruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://e-ducativa.catedu.es/44003247</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calatayud</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001179</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">EMILIO JIMENO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Río Perejiles, 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 881 009</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesejcalatayud@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.emiliojimeno.edu.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011793</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARTE-MISS ZARAGOZA, CENTRO 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Padre Manjón, 38-40</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 33 11 88</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">educacion@arte-miss.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.arte-miss.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Barbastro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22000809</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">HERMANOS ARGENSOLA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Del Cinca, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 31 17 38</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieshabarbastro@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://ieshabar.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44010011</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ESCUELA DE HOSTELERÍA Y TURISMO DE TERUEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Mariano Muñoz Nogués, 11-13</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 60 01 35</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">esuhosteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.educa.aragob.es/eshoster/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007236</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SALESIANO NTRA. SRA.DEL PILAR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. María Auxiliadora, 57</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 68 78</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">secretaria.zaragoza@salesianos.edu</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://zaragoza.salesianos.edu/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007716</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN VALERO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Violeta Parra, 9</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 46 65 99</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">infoces@svalero.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.sanvalero.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50015</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zuera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008629</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">E.F.A. EL SALTO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ctra. de Huesca, N. 330, Km. 529</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 68 03 70</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">elsalto@efasdearagon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.efasdearagon.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50800</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008642</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MARÍA MOLINER</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. San Vicente Ferrer, 6</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 33 18 03</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmmozaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://ies-mariamoliner.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="11">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008654</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CEFOR IZQUIERDO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Tenor Fleta, 57 (Pasaje)</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 48 62 71</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ciclos@izquierdofp.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.izquierdofp.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="12">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Tauste</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008770</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RÍO ARBA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Del Pilar, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 85 40 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iestauste@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesrioarba.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50660</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="13">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009051</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PLUS ULTRA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Gran Via, 11</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 22 61 44</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">centro@plusultraformacion.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.plusultraformacion.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="14">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ejea de los Caballeros</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009129</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CINCO VILLAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º DE LA CONSTITUCIÓN, 122-124-126</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 66 00 08</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iescvejea@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iescincovillas.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009166</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">JOSÉ MANUEL BLECUA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Cuarta Avenida, 13</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 25 86 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesjmbzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesblecua.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="16">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50017503</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">OCÉANO ATLÁNTICO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Ranillas, 1, edificio 3D</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 10 64 51</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@oceanoatlantico.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.oceanoatlantico.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="17">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019901</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MEDAC STADIUM VENECIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String"> Calle Fray Julián Garcés, número 100</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">876 50 88 42</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">zaragoza.stadium@medac.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://medac.es/fp-zaragoza/calle-fray-julian-garces-100</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="18">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019767</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CESUR ZARAGOZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avenida de Ranillas, número 5C</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">876 25 98 24 </Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cesurzaragoza@cesurformacion.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cesurformacion.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="19">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Mequinenza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009221</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTA AGATOCLIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ctra. De Fraga, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 46 42 11</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">colegiosantaagatoclia@gmail.com</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50170</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="20">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Fuentes de Ebro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009543</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BENJAMÍN JARNÉS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Agustina De Aragón, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 16 08 87</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesfuentes@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesfuent.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50740</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="21">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009567</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RÍO GÁLLEGO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Río Piedra, 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 58 81 70</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesrgazaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.riogallego.com/html/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50014</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="22">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zuera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009592</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">GALLICUM</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cami. De San Juan, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 68 03 41</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieszuera@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.gallicum.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50800</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="23">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009889</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ACADEMIA MARCO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Conde De Aranda, 7-9</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 44 16 99</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@academiamarco.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.academiamarco.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50004</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="24">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Alagón</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010028</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ALAÚN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Ramón Y Cajal, 10</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 61 13 74</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">centroalaun@alaun.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.centroalaun.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50630</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="25">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Utebo</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010041</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PEDRO CERRADA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Las Fuentes, 14</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 77 42 55</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesutebo@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesutebo.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50180</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010144</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PABLO SERRANO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. BATALLA DE LEPANTO, 30</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 49 10 15</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iespsezaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iespabloserrano.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="27">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22010153</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARTE-MISS HUESCA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Alcalde Carderera, 3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 21 53 21</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">educacion@arte-miss.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.arte-miss.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="28">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">San Blas</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003028</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DE SAN BLAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Bo. San Blas, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 61 88 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ifpeteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://ifpesanblas.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44195</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="29">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003211</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTA EMERENCIANA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. Juez Villanueva, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 62 05 64</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iessemteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.ies.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="30">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003223</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SEGUNDO DE CHOMÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. PABLO MONGUIÓ, 48</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 60 13 21</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesschteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesch.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="31">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Caspe</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011732</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MAR DE ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. JOSÉ  MARÍA  ALBAREDA, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 63 02 08</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iescaspe@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesmardearagon.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50700</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="32">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002491</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MONTEARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ctra. De Sariñena,  Km. 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 24 26 73</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpmontearagon@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://cpifpmontearagon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22111</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="33">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002508</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RAMÓN Y CAJAL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. De La Paz,  9</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 22 04 36</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesrychuesca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesrychu.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="34">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002521</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SIERRA DE GUARA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Ramón J. Sender, 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 24 34 77</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iessguhuesca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iessierradeguara.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="35">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Tarazona</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011513</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">TUBALCAÍN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. La Paz, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 64 29 15</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iestarazona@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iestubalcain.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50500</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="36">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011525</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MIGUEL CATALÁN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º Isabel La Católica, 3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 40 20 04</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmcazaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.ies-mcatalan.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="37">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011574</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CPA-SALDUIE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">AVDA. RAMÓN SAÍNZ DE VARANDA 1-3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 52 27 41</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@cpasalduie.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpasalduie.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="38">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006414</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">VIRGEN DEL PILAR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º Reyes De Aragón, 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 60 09</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesvdpzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesvirgendelpilar.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="39">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006529</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">EL BUEN PASTOR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Monzón, 27</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 27 37 62</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">secretaria@elbuenpastorzaragoza.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.elbuenpastorzaragoza.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="40">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006581</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">COLEGIO MONTESSORI</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Lagasca, 25-27</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 61 00</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">administracion@colegiomontessori.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://colegiomontessori.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="41">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006761</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ESCOLAPIAS SANTA ENGRACIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cami. De Miraflores, 23</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 37 10 68</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">miraflores@fe-escolapias.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.escolapiasmiraflores.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="42">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calanda</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44005104</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">VALLE DEL GUADALOPE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º Alcañiz, 27</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 84 60 02</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iescalanda@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesvalledelguadalope.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44570</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="43">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Almunia de Doña Godina (La)</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50000412</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SALESIANOS LAVIAGA-CASTILLO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. María Auxiliadora, 12</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 81 24 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">secretaria.laalmunia@salesianos.edu</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.salesianos.edu/laalmunia</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50100</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="44">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Borja</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50000874</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">JUAN DE LANUZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Capuchinos, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 86 73 68</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesborja@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesjuandelanuza.catedu.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50540</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="45">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Fraga</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004888</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BAJO CINCA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Río Cinca, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 45 38 60</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesbcfraga@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://e-ducativa.catedu.es/22004888</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22520</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="46">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Puebla de Alfindén (La)</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018842</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LA PUEBLA DE ALFINDÉN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. de Pastriz 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 10 76 02</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieslapuebla@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://ieslapuebladealfinden.wordpress.com/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50171</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="47">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018829</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CORONA DE ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Corona de Aragón, 35</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 467 000</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpcorona@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpicorona.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="48">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22010712</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PIRÁMIDE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CAMI. DE CUARTE, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 21 01 02</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifppiramide@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpifppiramide.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="49">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Alcañiz</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44010537</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BAJO ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. José Pardo Sastrón, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 83 10 63</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpbajoaragon@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpifpbajoaragon.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="50">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Villanueva de Gállego</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019147</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FUNDACIÓN LABORAL DE LA CONSTRUCCIÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Isaac Newton, 1 - Parcela 15</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 74 06 26</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">lvillaluenga@fundacionlaboral.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://fp.fundacionlaboral.org/centros/aragon</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50830</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="51">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019640</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FORMACCIONA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. ASÍN Y PALACIOS, 18</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">9.76249622E8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@formacciona.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.formacciona.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="52">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Utrillas</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44004550</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FERNANDO LÁZARO CARRETER</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Miguel Servet, 3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 75 80 50</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesutrillas@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesutril.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44760</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="53">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Andorra</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44004653</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PABLO SERRANO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. HERMANAS ZAPATA,  8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 84 21 62</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesandorra@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesandorra.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44500</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="54">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019482</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARTE-MISS ZARAGOZA, CENTRO 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">C/ Gran Vía, 22</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50005</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="55">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calatayud</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019381</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ANDRÉS GARDE ERIKSON</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Polígono Mediavega, 2-3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="56">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22011081</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ACF INNOVE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Polígono Magantina, calle Comercio, número 28</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 28 87 60</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@acfinnove.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.acfinnove.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22006</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="57">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019974</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MEDAC ZARAGOZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String"> Calle Eduardo Jimeno Correas, número 19.</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">8.76500761E8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">zaragoza@medac.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.medac.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="58">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50020010</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">OLIVÁN, TRANSPORTE Y FORMACIÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calle Pegaso, número 17</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">9.76328195E8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">gestion@olivanformacion.com</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="59">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50020095</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MEDAC EL OLIVAR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calle Argualas, número 50</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="60">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Sahún</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004943</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">NTRA. SRA. DE GUAYENTE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. SANTUARIO DE GUAYENTE, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 55 13 27</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">escuelahosteleria@guayente.info</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://www.guayenteescueladehosteleria.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22468</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="61">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Sariñena</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005030</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MONEGROS-GASPAR LAX</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cami. De Las Torres, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 57 11 14</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iessarinena@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://e-ducativa.catedu.es/22005030/sitio/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22200</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="62">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005121</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN LORENZO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Madrid, 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 24 36 33</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpsanlorenzo@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.escuelahosteleria.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="63">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Fraga</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22001917</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RAMÓN J. SENDER</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º De La Constitución, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 47 01 44</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesrsfraga@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesender.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22520</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="64">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Pina de Ebro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50003838</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTA MARÍA DE LA ESPERANZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Rosales, 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 16 50 47</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">smesperanzape@planalfa.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.fundacionxafer.org/STA-MARIA-ESPERANZA/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50750</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="65">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Monzón</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22003239</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTO DOMINGO SAVIO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º SAN JUAN BOSCO, 83-85</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 41 68 88</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">colegio.monzon@salesianos.org</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">22400</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="66">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Monzón</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22003288</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">JOSÉ MOR DE FUENTES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Del  Pueyo, 89</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 40 16 30</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmonzon@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesmordefuentes.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22400</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="67">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Daroca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010284</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">COMUNIDAD DE DAROCA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Barranco De Luzbel, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 80 20 72</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesdaroca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://catedu.es/iesdaroca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50360</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="68">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010314</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LOS ENLACES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Jarque De Moncayo, 10</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 08 04</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpilosenlaces@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpilosenlaces.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="69">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Pinseque</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50003863</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">E.F.A. LA NORIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. PUENTE JUBO, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 61 71 55</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">lanoria@efasdearagon.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.efasdearagon.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50298</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="70">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Movera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50005690</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DE MOVERA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ctra. Pastriz, Km. 3,6</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 58 62 84</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpmovera@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://www.cpifpmovera.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50194</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="71">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010156</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MIRALBUENO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Vistabella, 8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 33 04 50</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmirzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesmiralbueno.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="72">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010168</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CONDES DE ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Condes De Aragón, 9</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 35 48 80</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">fpcondesdearagon@gmail.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.condesfp.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="73">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010491</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTIAGO HERNÁNDEZ</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. De Navarra, 141</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 32 42 00</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesshezaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iessantiagohernandez.com/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50017</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="74">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010511</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">TIEMPOS MODERNOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. CINEASTA SEGUNDO DE CHOMÓN, 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 52 53 02</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iestiemposmodernos@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iestiemposmodernos.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="75">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Almunia de Doña Godina (La)</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010533</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CABAÑAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Carrera De La Hilera, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 81 24 80</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesalmunia@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesalmun.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50100</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="76">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010739</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PILAR LORENGAR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Miguel Asso, 5</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 47 59 66</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesplozaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iespilarlorengar.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50014</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="77">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010946</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ANDALÁN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. París, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 28 19 43</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesandzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesandza.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50003</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="78">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Illueca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010961</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SIERRA DE LA VIRGEN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. San Ildefonso, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 82 25 44</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesillueca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iessierradelavirgen.catedu.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50250</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="79">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Épila</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011008</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RODANAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. De La Estación, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 81 70 90</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesepila@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesepila.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50290</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="80">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Pedrola</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011070</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SIGLO XXI</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Virgen Del Pilar,  S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 61 91 31</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iespedrola@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iespedro.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50690</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="81">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50005793</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ÍTACA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda de los Estudiantes, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 57 24 26</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesitazaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.e-itaca.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50058</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="82">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ateca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011252</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ZAURÍN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º   Manubles, 6</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 84 21 10</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesateca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesateca.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50200</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="83">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ejea de los Caballeros</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001829</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">E.F.A. BOALARES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Carretera A-127, km 37</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 66 14 56</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">boalares@efasdearagon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.efasdearagon.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="84">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ejea de los Caballeros</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001830</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">REYES CATÓLICOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. MARIANO ALASTUEY, 26</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 66 06 45</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesrcejea@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesreyescatolicos.catedu.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="85">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calamocha</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44004045</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">VALLE DEL JILOCA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Zaragoza, 42</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 73 01 37</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iescalamocha@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iescalam.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44200</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="86">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Alcorisa</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44005098</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DAMIÁN FORMENT</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. MIGUEL DE CERVANTES, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 84 07 34</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesalcorisate@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesalcorisa.es/index.php</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44550</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="87">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007017</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MARÍA AUXILIADORA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Mornés, 14</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 27 27 50</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">titularzaragoza@salesianas.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.mazaragoza.salesianas.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="88">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007492</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LA SALLE-SANTO ANGEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Tomás Anzano,1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 75 37 18</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">administracion@lasallesantoangel.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.lasalle.es/lasallesaz</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="89">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007856</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">OBRA DIOCESANA SANTO DOMINGO DE SILOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Amistad, 6</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 42 49 47</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">odsds@planalfa.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.educasilos.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="90">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zuera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008617</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN GABRIEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. San Gabriel,  S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 68 00 44</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">direccion@sangabriel.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.sangabriel.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50800</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="91">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Sabiñánigo</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22003902</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN ALBERTO MAGNO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Paseo de la Corona nº 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 48 01 79</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesamsabinanigo@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesamsab.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="92">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Barbastro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004611</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MARTÍNEZ VARGAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cami.  De La Boquera, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 31 02 94</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmvbarbastro@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesmv.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="93">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Jaca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005765</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PIRINEOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Ferrocarril, 17</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 35 58 57</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iespijaca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iespijac.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22700</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="94">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Jaca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002703</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ESCUELAS PÍAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Perimetral, 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 36 03 92</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">joseignaciobilbao@escolapiosemaus.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.escolapiosjaca.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22700</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="95">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Jaca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002740</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">INSTITUTO DE FORMACIÓN AGROAMBIENTAL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Escuela de Capacitación Agraria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CTRA. JACA-PAMPLONA, KM. 7</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 35 68 19</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ifaja@aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.ifajaca.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22700</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="96">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calatayud</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001167</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LEONARDO DE CHABACIER</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º San Nicolás De Francia, 10</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 88 10 15</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieslchcalatayud@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesprcal.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="97">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Sabiñánigo</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004891</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BIELLO ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Derechos Humanos, 5</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 48 26 82</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesbasabinanigo@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesbasab.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="98">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Binéfar</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005388</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SIERRA DE SAN QUÍLEZ</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PZA. HIPÓLITO BITRIÁN, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 42 82 95</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesbinefar@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesbinefar.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22500</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="99">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Tamarite de Litera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005391</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LA LLITERA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Camino La Colomina s/n</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 42 03 60</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iestamarite@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.ieslallitera.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22550</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="100">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Aínsa</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005406</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SOBRARBE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Lucien Briet,  S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 50 00 56</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesainsa@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesainsa.educa.aragon.es/wordpress/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22330</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="101">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003235</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">VEGA DEL TURIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Victor Pruneda, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 60 26 44</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesvtteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesvegadelturia.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="102">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011781</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">VALLE DE TENA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º  Isabel La Católica, 5-7</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 55 03 65</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">secretaria@fpvalledetena.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://fpvalledetena.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="103">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50017096</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARSENIO JIMENO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Eduardo Jimeno Correas, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 70 05 00</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@centroformacion.ugt.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://arseniojimenofp.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="104">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Valderrobres</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44004598</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MATARRAÑA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Gral. Gutiérrez Mellado, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 85 06 47</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesvalderrobres@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesvalderrobres.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44580</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="105">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Monreal del Campo</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44004665</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SALVADOR VICTORIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. María Moliner, 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 86 35 11</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmonreal@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesmonre.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="106">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007728</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN VICENTE DE PAÚL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. San Vicente De Paúl, 31</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 29 15 25</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">direccion@paulaszaragoza.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.paulaszaragoza.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="107">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008460</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LUIS BUÑUEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. Sierra Vicor, 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 44 00 28</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieslbuzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://ieslbuza.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50003</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="108">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cariñena</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001349</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">JOAQUÍN COSTA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Del Ejército, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 62 01 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iescarinena@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iescarinena.catedu.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50400</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="109">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003247</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FRANCÉS DE ARANDA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. ATARAZANAS, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 60 25 42</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesfrateruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://e-ducativa.catedu.es/44003247</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="110">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calatayud</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001179</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">EMILIO JIMENO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Río Perejiles, 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 881 009</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesejcalatayud@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.emiliojimeno.edu.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="111">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011793</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARTE-MISS ZARAGOZA, CENTRO 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Padre Manjón, 38-40</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 33 11 88</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">educacion@arte-miss.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.arte-miss.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="112">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Barbastro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22000809</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">HERMANOS ARGENSOLA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Del Cinca, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 31 17 38</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieshabarbastro@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://ieshabar.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="113">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44010011</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ESCUELA DE HOSTELERÍA Y TURISMO DE TERUEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Mariano Muñoz Nogués, 11-13</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 60 01 35</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">esuhosteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.educa.aragob.es/eshoster/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="114">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007236</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SALESIANO NTRA. SRA.DEL PILAR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. María Auxiliadora, 57</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 68 78</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">secretaria.zaragoza@salesianos.edu</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://zaragoza.salesianos.edu/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="115">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007716</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN VALERO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Violeta Parra, 9</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 46 65 99</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">infoces@svalero.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.sanvalero.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50015</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="116">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006888</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">INMACULADA CONCEPCIÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Concepción, 8-10</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 41 63 14</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cinmaculadazgz@telefonica.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.colegioinmaculadaconcepcionz.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="117">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zuera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008629</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">E.F.A. EL SALTO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ctra. de Huesca, N. 330, Km. 529</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 68 03 70</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">elsalto@efasdearagon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.efasdearagon.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50800</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="118">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008642</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MARÍA MOLINER</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. San Vicente Ferrer, 6</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 33 18 03</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmmozaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://ies-mariamoliner.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="119">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008654</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CEFOR IZQUIERDO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Tenor Fleta, 57 (Pasaje)</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 48 62 71</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ciclos@izquierdofp.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.izquierdofp.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="120">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Tauste</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008770</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RÍO ARBA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Del Pilar, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 85 40 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iestauste@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesrioarba.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50660</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="121">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ejea de los Caballeros</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009129</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CINCO VILLAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º DE LA CONSTITUCIÓN, 122-124-126</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 66 00 08</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iescvejea@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iescincovillas.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="122">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50017503</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">OCÉANO ATLÁNTICO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Ranillas, 1, edificio 3D</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 10 64 51</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@oceanoatlantico.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.oceanoatlantico.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="123">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019767</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CESUR ZARAGOZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avenida de Ranillas, número 5C</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">876 25 98 24 </Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cesurzaragoza@cesurformacion.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cesurformacion.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="124">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009348</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">AVEMPACE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Islas Canarias, 5</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 51 86 66</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesavempace@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.avempace.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50015</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="125">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Fuentes de Ebro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009543</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BENJAMÍN JARNÉS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Agustina De Aragón, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 16 08 87</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesfuentes@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesfuent.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50740</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="126">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009567</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RÍO GÁLLEGO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Río Piedra, 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 58 81 70</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesrgazaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.riogallego.com/html/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50014</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="127">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zuera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009592</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">GALLICUM</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cami. De San Juan, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 68 03 41</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieszuera@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.gallicum.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50800</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="128">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009889</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ACADEMIA MARCO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Conde De Aranda, 7-9</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 44 16 99</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@academiamarco.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.academiamarco.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50004</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="129">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Utebo</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010041</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PEDRO CERRADA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Las Fuentes, 14</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 77 42 55</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesutebo@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesutebo.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50180</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="130">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010144</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PABLO SERRANO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. BATALLA DE LEPANTO, 30</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 49 10 15</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iespsezaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iespabloserrano.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="131">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22010153</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARTE-MISS HUESCA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Alcalde Carderera, 3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 21 53 21</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">educacion@arte-miss.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.arte-miss.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="132">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">San Blas</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003028</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DE SAN BLAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Bo. San Blas, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 61 88 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ifpeteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://ifpesanblas.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44195</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="133">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003211</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTA EMERENCIANA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. Juez Villanueva, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 62 05 64</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iessemteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.ies.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="134">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003223</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SEGUNDO DE CHOMÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. PABLO MONGUIÓ, 48</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 60 13 21</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesschteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesch.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="135">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Caspe</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011732</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MAR DE ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. JOSÉ  MARÍA  ALBAREDA, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 63 02 08</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iescaspe@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesmardearagon.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50700</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="136">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002491</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MONTEARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ctra. De Sariñena,  Km. 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 24 26 73</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpmontearagon@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://cpifpmontearagon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22111</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="137">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002508</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RAMÓN Y CAJAL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. De La Paz,  9</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 22 04 36</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesrychuesca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesrychu.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="138">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002521</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SIERRA DE GUARA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Ramón J. Sender, 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 24 34 77</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iessguhuesca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iessierradeguara.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="139">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50005513</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAGRADA FAMILIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º Infantes De España, 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 56 01 25</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">sfamilia@csafa.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.Colegiosagradafamilia.Com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="140">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Tarazona</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011513</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">TUBALCAÍN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. La Paz, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 64 29 15</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iestarazona@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iestubalcain.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50500</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="141">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011525</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MIGUEL CATALÁN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º Isabel La Católica, 3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 40 20 04</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmcazaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.ies-mcatalan.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="142">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011574</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CPA-SALDUIE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">AVDA. RAMÓN SAÍNZ DE VARANDA 1-3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 52 27 41</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@cpasalduie.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpasalduie.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="143">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006414</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">VIRGEN DEL PILAR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º Reyes De Aragón, 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 60 09</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesvdpzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesvirgendelpilar.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="144">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006529</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">EL BUEN PASTOR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Monzón, 27</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 27 37 62</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">secretaria@elbuenpastorzaragoza.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.elbuenpastorzaragoza.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="145">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006581</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">COLEGIO MONTESSORI</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Lagasca, 25-27</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 61 00</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">administracion@colegiomontessori.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://colegiomontessori.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="146">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Almunia de Doña Godina (La)</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50000412</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SALESIANOS LAVIAGA-CASTILLO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. María Auxiliadora, 12</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 81 24 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">secretaria.laalmunia@salesianos.edu</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.salesianos.edu/laalmunia</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50100</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="147">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Borja</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50000874</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">JUAN DE LANUZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Capuchinos, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 86 73 68</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesborja@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesjuandelanuza.catedu.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50540</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="148">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Fraga</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004888</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BAJO CINCA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Río Cinca, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 45 38 60</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesbcfraga@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://e-ducativa.catedu.es/22004888</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22520</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="149">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Puebla de Alfindén (La)</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018842</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LA PUEBLA DE ALFINDÉN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. de Pastriz 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 10 76 02</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieslapuebla@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://ieslapuebladealfinden.wordpress.com/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50171</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="150">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018829</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CORONA DE ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Corona de Aragón, 35</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 467 000</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpcorona@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpicorona.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="151">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22010712</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PIRÁMIDE</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CAMI. DE CUARTE, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 21 01 02</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifppiramide@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpifppiramide.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="152">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Alcañiz</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44010537</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BAJO ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. José Pardo Sastrón, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 83 10 63</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpbajoaragon@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpifpbajoaragon.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="153">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018556</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LUIS MANUEL GARCÍA URREA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. LAGASCA, 25-27</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 61 00</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">administracion@montessorifp.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://www.montessorifp.com/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50006</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="154">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Villanueva de Gállego</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019147</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FUNDACIÓN LABORAL DE LA CONSTRUCCIÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Isaac Newton, 1 - Parcela 15</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 74 06 26</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">lvillaluenga@fundacionlaboral.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://fp.fundacionlaboral.org/centros/aragon</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50830</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="155">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calatayud</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001180</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ACADEMIA DE LOGÍSTICA DEL EJÉRCITO DE TIERRA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Docente de Formación Militar </Data>
+    </Cell>
+    <Cell><Data ss:Type="String">AVDA. DE LAS FUERZAS ARMADAS, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">876 63 30 00</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">alogisticacalatayud@educa.aragon.es</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="156">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019640</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FORMACCIONA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. ASÍN Y PALACIOS, 18</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">9.76249622E8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@formacciona.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.formacciona.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="157">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Utrillas</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44004550</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">FERNANDO LÁZARO CARRETER</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Miguel Servet, 3</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 75 80 50</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesutrillas@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesutril.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44760</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="158">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Andorra</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44004653</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PABLO SERRANO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. HERMANAS ZAPATA,  8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 84 21 62</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesandorra@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesandorra.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44500</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="159">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019482</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARTE-MISS ZARAGOZA, CENTRO 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">C/ Gran Vía, 22</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50005</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="160">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50019974</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MEDAC ZARAGOZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String"> Calle Eduardo Jimeno Correas, número 19.</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">8.76500761E8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">zaragoza@medac.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.medac.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="161">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50020034</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CENTRO SUPERIOR DE ESTUDIOS SANITARIOS OCÉANO ATLÁNTICO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Plaza Emperador Carlos V, número 8.</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="162">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Barbastro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22011133</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">STOP FORMACIÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Carretera de Graus, km. 0,6</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 31 41 29</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">autoescuelas.stop@gmail.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.stopformacion.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="163">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50020162</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">EDUCATRAFIC DELICIAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avenida de Madrid, número 263</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">660 020 268</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">gradosuperior@fpeduca.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://educatrafic.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50017</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="164">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50020095</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MEDAC EL OLIVAR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calle Argualas, número 50</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="165">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005121</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN LORENZO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Madrid, 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 24 36 33</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpsanlorenzo@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.escuelahosteleria.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="166">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Pina de Ebro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50003838</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTA MARÍA DE LA ESPERANZA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Rosales, 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 16 50 47</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">smesperanzape@planalfa.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.fundacionxafer.org/STA-MARIA-ESPERANZA/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50750</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="167">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Monzón</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22003239</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTO DOMINGO SAVIO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º SAN JUAN BOSCO, 83-85</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 41 68 88</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">colegio.monzon@salesianos.org</Data>
+    </Cell>
+    <Cell ss:Index="12"><Data ss:Type="Number">22400</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="168">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Monzón</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22003288</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">JOSÉ MOR DE FUENTES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Del  Pueyo, 89</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 40 16 30</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmonzon@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesmordefuentes.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22400</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="169">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010314</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LOS ENLACES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Jarque De Moncayo, 10</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 30 08 04</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpilosenlaces@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.cpilosenlaces.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="170">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Pinseque</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50003863</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">E.F.A. LA NORIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. PUENTE JUBO, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 61 71 55</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">lanoria@efasdearagon.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.efasdearagon.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50298</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="171">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Movera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50005690</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">DE MOVERA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Público Integrado de Formación Profesional</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ctra. Pastriz, Km. 3,6</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 58 62 84</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cpifpmovera@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">https://www.cpifpmovera.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50194</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="172">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010156</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MIRALBUENO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Vistabella, 8</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 33 04 50</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmirzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesmiralbueno.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="173">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010491</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SANTIAGO HERNÁNDEZ</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. De Navarra, 141</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 32 42 00</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesshezaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iessantiagohernandez.com/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50017</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="174">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010511</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">TIEMPOS MODERNOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. CINEASTA SEGUNDO DE CHOMÓN, 4</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 52 53 02</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iestiemposmodernos@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iestiemposmodernos.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="175">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Almunia de Doña Godina (La)</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010533</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CABAÑAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Carrera De La Hilera, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 81 24 80</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesalmunia@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesalmun.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50100</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="176">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010739</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PILAR LORENGAR</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Miguel Asso, 5</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 47 59 66</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesplozaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iespilarlorengar.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50014</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="177">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50010946</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ANDALÁN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. París, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 28 19 43</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesandzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesandza.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50003</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="178">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Épila</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011008</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">RODANAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. De La Estación, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 81 70 90</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesepila@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesepila.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50290</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="179">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Pedrola</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011070</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SIGLO XXI</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Virgen Del Pilar,  S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 61 91 31</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iespedrola@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iespedro.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50690</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="180">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50005793</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ÍTACA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda de los Estudiantes, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 57 24 26</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesitazaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.e-itaca.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50058</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="181">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ejea de los Caballeros</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001829</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">E.F.A. BOALARES</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Carretera A-127, km 37</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 66 14 56</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">boalares@efasdearagon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.efasdearagon.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="182">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ejea de los Caballeros</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001830</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">REYES CATÓLICOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. MARIANO ALASTUEY, 26</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 66 06 45</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesrcejea@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesreyescatolicos.catedu.es/</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="183">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007017</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MARÍA AUXILIADORA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Mornés, 14</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 27 27 50</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">titularzaragoza@salesianas.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.mazaragoza.salesianas.net</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="184">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007492</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LA SALLE-SANTO ANGEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Tomás Anzano,1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 75 37 18</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">administracion@lasallesantoangel.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.lasalle.es/lasallesaz</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50012</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="185">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50007856</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">OBRA DIOCESANA SANTO DOMINGO DE SILOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Amistad, 6</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 42 49 47</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">odsds@planalfa.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.educasilos.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50002</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="186">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zuera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008617</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN GABRIEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Educación Infantil Primaria y Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. San Gabriel,  S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 68 00 44</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">direccion@sangabriel.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.sangabriel.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50800</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="187">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Sabiñánigo</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22003902</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SAN ALBERTO MAGNO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Paseo de la Corona nº 2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 48 01 79</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesamsabinanigo@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesamsab.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="188">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Barbastro</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004611</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">MARTÍNEZ VARGAS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cami.  De La Boquera, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 31 02 94</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesmvbarbastro@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesmv.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="189">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Jaca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005765</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PIRINEOS</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Ferrocarril, 17</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 35 58 57</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iespijaca@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iespijac.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22700</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="190">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Jaca</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22002740</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">INSTITUTO DE FORMACIÓN AGROAMBIENTAL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Escuela de Capacitación Agraria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CTRA. JACA-PAMPLONA, KM. 7</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 35 68 19</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ifaja@aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.ifajaca.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22700</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="191">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Calatayud</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001167</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LEONARDO DE CHABACIER</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º San Nicolás De Francia, 10</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 88 10 15</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieslchcalatayud@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesprcal.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50300</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="192">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Sabiñánigo</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22004891</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">BIELLO ARAGÓN</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Derechos Humanos, 5</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 48 26 82</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesbasabinanigo@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iesbasab.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22600</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="193">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Binéfar</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005388</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">SIERRA DE SAN QUÍLEZ</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">PZA. HIPÓLITO BITRIÁN, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 42 82 95</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesbinefar@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesbinefar.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22500</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="194">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Huesca</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Tamarite de Litera</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22005391</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LA LLITERA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Camino La Colomina s/n</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">974 42 03 60</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iestamarite@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.ieslallitera.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">22550</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="195">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Teruel</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44003235</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">VEGA DEL TURIA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Victor Pruneda, 1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">978 60 26 44</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iesvtteruel@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://www.iesvegadelturia.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">44001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="196">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50011781</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">VALLE DE TENA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">P.º  Isabel La Católica, 5-7</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 55 03 65</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">secretaria@fpvalledetena.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://fpvalledetena.com</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50009</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="197">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50017096</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ARSENIO JIMENO</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Centro Privado de Formación Profesional Específica</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cl. Eduardo Jimeno Correas, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Privado</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 70 05 00</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">info@centroformacion.ugt.org</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://arseniojimenofp.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50018</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="198">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50008460</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">LUIS BUÑUEL</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">CL. Sierra Vicor, 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 44 00 28</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">ieslbuzaragoza@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://ieslbuza.educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50003</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="199">
+    <Cell><Data ss:Type="String">0.0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Zaragoza</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Cariñena</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50001349</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">JOAQUÍN COSTA</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Instituto de Educación Secundaria</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Avda. Del Ejército, S/N</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Publico</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">976 62 01 20</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">iescarinena@educa.aragon.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">http://iescarinena.catedu.es</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">50400</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Evaluation Warning">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="12.75" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="5" ss:ExpandedColumnCount="1">
+   <Row ss:Index="5" ss:Height="23.25">
+    <Cell ss:StyleID="S21"><Data ss:Type="String">Evaluation Only. Created with Aspose.Cells for Java.Copyright 2003 - 2022 Aspose Pty Ltd.</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup />
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+   </Print>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
