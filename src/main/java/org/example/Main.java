@@ -1,10 +1,8 @@
 package org.example;
 
-import org.example.data.CSVtoXML;
-import org.example.data.GenerarXml.GenerarXmlDatosCentros;
-import org.example.data.GenerarXml.GenerarXmlDatosFamilias;
-import org.example.data.GenerarXml.GenerarXmlDatosProyectos;
-import org.example.data.InsertarXML;
+import org.example.data.GenerarXml.*;
+import org.example.data.InsertarExistDB.CSVtoXML;
+import org.example.data.InsertarExistDB.InsertarXML;
 import org.example.libs.Leer;
 
 public class Main {
@@ -23,13 +21,17 @@ public class Main {
             switch (opcion) {
                 case "0" -> salir = true;
                 case "1" -> {
-                    CSVtoXML.CSVtoXML();
-                    InsertarXML.Insertar();
+                    CSVtoXML.convertirCSVaXML();
+                    InsertarXML.insertarXML();
                 }
                 case "2" -> {
-                    GenerarXmlDatosCentros.CargarDatos();
-                    GenerarXmlDatosFamilias.CargarDatos();
-                    GenerarXmlDatosProyectos.CargarDatos();
+                    // TODO comprobar si funciona de esta manera y borrar las clases:
+                    //  'GenerarXmlDatosCentros', 'GenerarXmlDatosFamilias' y 'GenerarXmlDatosProyectos'
+                    GenerarXMLs.generarDatosCentros();
+                    GenerarXMLs.generarDatosFamilias();
+                    GenerarXMLs.generarDatosProyectos();
+                    // TODO en caso de no funcionar, volver a llamar a las clases de arriba y borrar:
+                    //  'GenerarXMLs' y 'GenerarXMLDatos'
                 }
                 default -> System.err.println("La opción introducida no es valida");
             }

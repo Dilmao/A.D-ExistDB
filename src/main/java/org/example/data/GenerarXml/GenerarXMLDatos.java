@@ -12,32 +12,14 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.StringReader;
 
-public class GenerarXmlDatosProyectos {
+public class GenerarXMLDatos {
     static Collection col = null;
 
-    public static void cargarDatos() {
+    public static void cargarDatos(String nombreArchivo, String consulta) {
         col = ConexionCollection.conectar();
 
         if (col != null) {
             try {
-                String consulta = """
-                        let $xml := doc("proyectosFP.xml")
-                        return
-                        <Proyectos>{
-                            for $row in $xml//Row
-                            return
-                                <Proyecto>
-                                    <CENTROCOORDINADOR>{data($row/CENTROCOORDINADOR)}</CENTROCOORDINADOR>
-                                    <TÍTULODELPROYECTO>{data($row/TÍTULODELPROYECTO)}</TÍTULODELPROYECTO>
-                                    <AUTORIZACIÓN>{data($row/AUTORIZACIÓN)}</AUTORIZACIÓN>
-                                    <CONTINUIDAD>{data($row/CONTINUIDAD)}</CONTINUIDAD>
-                                    <COORDINACIÓN>{data($row/COORDINACIÓN)}</COORDINACIÓN>
-                                    <CONTACTO>{data($row/CONTACTO)}</CONTACTO>
-                                    <CENTROSANEXIONADOS>{data($row/CENTROSANEXIONADOS)}</CENTROSANEXIONADOS>
-                                </Proyecto>
-                        }</Proyectos>
-                        """;
-
                 XPathQueryService servicioXPath = (XPathQueryService) col.getService("XPathQueryService", "3.0");
                 col.setProperty("indent", "yes");
                 servicioXPath.setProperty("indent", "yes");
@@ -46,9 +28,10 @@ public class GenerarXmlDatosProyectos {
 
                 if (!iterador.hasMoreResources()) {
                     System.err.println(">>> ERROR: La consulta no devuelve ningún resultado o está mal escrita");
+                    return; // Evitar continuar si no hay resultados
                 }
 
-                FileWriter fw = new FileWriter("target/Proyectos.xml");
+                FileWriter fw = new FileWriter("target/" + nombreArchivo + ".xml");
                 Resource recurso = null;
 
                 while (iterador.hasMoreResources()) {
@@ -61,7 +44,7 @@ public class GenerarXmlDatosProyectos {
                 try {
                     Transformer transformer = TransformerFactory.newInstance().newTransformer();
                     Source source = new StreamSource(new StringReader(recurso.getContent().toString()));
-                    StreamResult result = new StreamResult(new File("target/Proyectos.xml"));
+                    StreamResult result = new StreamResult(new File("target/" + nombreArchivo + ".xml"));
                     transformer.setOutputProperty(OutputKeys.METHOD, "xml");
                     transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
                     transformer.setOutputProperty(OutputKeys.INDENT, "yes");

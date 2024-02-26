@@ -1,6 +1,5 @@
 package org.example.data.GenerarXml;
 
-
 import org.example.conexion.ConexionCollection;
 import org.w3c.dom.Node;
 import org.xmldb.api.base.*;
@@ -17,72 +16,71 @@ import java.io.StringReader;
 
 public class GenerarXmlDatosCentros {
     static Collection col = null;
-    static Node nodo = null;
-    static XMLResource nodoDom = null;
 
-    public static void CargarDatos() {
-
+    public static void cargarDatos() {
         col = ConexionCollection.conectar();
-
-        String Consulta = "declare namespace ss=\"urn:schemas-microsoft-com:office:spreadsheet\";\n" +
-                "<Centros>{\n" +
-                "    for $xml in doc(\"CentrosCFGMyS.xml\")//ss:Row\n" +
-                "    return\n" +
-                "    <Centro>\n" +
-                "        <nombre>{$xml/ss:Cell[6]/ss:Data/data()}</nombre>\n" +
-                "        <codigo>{$xml/ss:Cell[4]/ss:Data/data()}</codigo>\n" +
-                "        <web>{$xml/ss:Cell[11]/ss:Data/data()}</web>\n" +
-                "        <correoElectronico>{$xml/ss:Cell[10]/ss:Data/data()}</correoElectronico>\n" +
-                "    </Centro>}\n" +
-                "</Centros>";
-
 
         if (col != null) {
             try {
-                XPathQueryService facturasCod1;
-                facturasCod1 = (XPathQueryService) col.getService("XPathQueryService", "3.0");
+                String consulta = """
+                declare namespace ss="urn:schemas-microsoft-com:office:spreadsheet";
+                <Centros>{
+                    for $xml in doc("CentrosCFGMyS.xml")//ss:Row
+                    return
+                    <Centro>
+                        <nombre>{$xml/ss:Cell[6]/ss:Data/data()}</nombre>
+                        <codigo>{$xml/ss:Cell[4]/ss:Data/data()}</codigo>
+                        <web>{$xml/ss:Cell[11]/ss:Data/data()}</web>
+                        <correoElectronico>{$xml/ss:Cell[10]/ss:Data/data()}</correoElectronico>
+                    </Centro>}
+                </Centros>
+                """;
+
+                XPathQueryService servicioXPath = (XPathQueryService) col.getService("XPathQueryService", "3.0");
                 col.setProperty("indent", "yes");
-                facturasCod1.setProperty("indent", "yes");
-                ResourceSet result = facturasCod1.query(Consulta);
-                ResourceIterator i;
-                i = result.getIterator();
-                if (!i.hasMoreResources()) {
-                    System.out.println(" LA CONSULTA NO DEVUELVE NADA O ESTÁ MAL ESCRITA");
+                servicioXPath.setProperty("indent", "yes");
+                ResourceSet resultadoConsulta = servicioXPath.query(consulta);
+                ResourceIterator iterador = resultadoConsulta.getIterator();
+
+                if (!iterador.hasMoreResources()) {
+                    System.err.println(">>> ERROR: La consulta no devuelve ningún resultado o está mal escrita");
                 }
 
                 FileWriter fw = new FileWriter("target/Centros.xml");
-                Resource r = null;
+                Resource recurso = null;
 
-                while (i.hasMoreResources()) {
-                    r = i.nextResource();
-                    fw.write(r.getContent().toString());
+                while (iterador.hasMoreResources()) {
+                    recurso = iterador.nextResource();
+                    fw.write(recurso.getContent().toString());
                 }
 
                 fw.close();
 
                 try {
                     Transformer transformer = TransformerFactory.newInstance().newTransformer();
-                    Source source = new StreamSource(new StringReader(r.getContent().toString()));
-                    StreamResult result1 = new StreamResult(new File("target/Centros.xml"));
+                    Source source = new StreamSource(new StringReader(recurso.getContent().toString()));
+                    StreamResult result = new StreamResult(new File("target/Centros.xml"));
                     transformer.setOutputProperty(OutputKeys.METHOD, "xml");
                     transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
                     transformer.setOutputProperty(OutputKeys.INDENT, "yes");
                     transformer.setOutputProperty("{http:xml.apache.org/xslt}indent-amount", "4");
-                    transformer.transform(source, result1);
+                    transformer.transform(source, result);
                 } catch (TransformerException e) {
-                    throw new RuntimeException(e);
+                    System.err.println(">>> Error al transformar el documento XML: " + e.getMessage());
                 }
 
-                System.out.println("datos generados");
-                //crear un archivo que lo contiene
+                System.out.println("Datos generados correctamente");
 
+                // Cerrar la conexión a la base de datos
                 col.close();
             } catch (XMLDBException e) {
-                System.out.println(" ERROR AL CONSULTAR DOCUMENTO.");
+                System.err.println(">>> Error al consultar el documento XML");
                 e.printStackTrace();
             } catch (IOException e) {
-                throw new RuntimeException(e);
+                System.err.println(">>> Error de entrada/salida al escribir el archivo XML: " + e.getMessage());
             }
+        } else {
+            System.err.println("No se pudo establecer conexión con la base de datos");
         }
     }
 }
