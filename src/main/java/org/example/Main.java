@@ -25,13 +25,9 @@ public class Main {
                     InsertarXML.insertarXML();
                 }
                 case "2" -> {
-                    // TODO comprobar si funciona de esta manera y borrar las clases:
-                    //  'GenerarXmlDatosCentros', 'GenerarXmlDatosFamilias' y 'GenerarXmlDatosProyectos'
                     GenerarXMLs.generarDatosCentros();
                     GenerarXMLs.generarDatosFamilias();
                     GenerarXMLs.generarDatosProyectos();
-                    // TODO en caso de no funcionar, volver a llamar a las clases de arriba y borrar:
-                    //  'GenerarXMLs' y 'GenerarXMLDatos'
                 }
                 default -> System.err.println("La opción introducida no es valida");
             }

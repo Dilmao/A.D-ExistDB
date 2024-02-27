@@ -54,7 +54,7 @@ public class GenerarXMLDatos {
                     System.err.println(">>> Error al transformar el documento XML: " + e.getMessage());
                 }
 
-                System.out.println("Datos generados correctamente");
+                System.out.println("Datos de " + nombreArchivo + " generados correctamente");
 
                 // Cerrar la conexión a la base de datos
                 col.close();
