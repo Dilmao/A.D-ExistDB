@@ -16,7 +16,7 @@ public class CSVtoXML {
             workbook2.save("src/main/resources/proyectos.xml");
         } catch (Exception e) {
             // Si ocurre un error, lo lanzamos como una RuntimeException
-            System.err.println(">>> Error al convertir archivos CSV a XML: " + e);
+            System.err.println(">>> Error al convertir archivos CSV a XML: " + e.getMessage());
         }
     }
 }
