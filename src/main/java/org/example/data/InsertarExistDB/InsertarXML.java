@@ -14,6 +14,7 @@ public class InsertarXML {
     public static void insertarXML(){
         // Archivos XML que se van a insertar en la colección
         File familiaXML = new File("src/main/resources/familias.xml");
+        File proyectosFPXML = new File("src/main/resources/proyectosFP.xml");
         File centrosXML = new File("src/main/resources/CentrosCFGMyS.xml");
         File proyectosXML = new File("src/main/resources/proyectos.xml");
 
@@ -26,6 +27,9 @@ public class InsertarXML {
 
             // Inserción de XML Familias
             insertarArchivoXML(familiaXML);
+
+            // Inserción de XML Centros
+            insertarArchivoXML(proyectosFPXML);
 
             // Inserción de XML Centros
             insertarArchivoXML(centrosXML);

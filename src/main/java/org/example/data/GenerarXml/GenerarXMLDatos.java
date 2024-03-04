@@ -15,22 +15,31 @@ import java.io.StringReader;
 public class GenerarXMLDatos {
     static Collection col = null;
 
+    // Método para cargar datos XML desde una base de datos XML nativa utilizando una consulta XPath
     public static void cargarDatos(String nombreArchivo, String consulta) {
+        // Establecer conexión con la colección XML
         col = ConexionCollection.conectar();
 
         if (col != null) {
             try {
+                // Obtener servicio para ejecutar consultas XPath sobre la colección
                 XPathQueryService servicioXPath = (XPathQueryService) col.getService("XPathQueryService", "3.0");
+
+                // Establecer propiedades de indentación para la colección y el servicio XPath
                 col.setProperty("indent", "yes");
                 servicioXPath.setProperty("indent", "yes");
+
+                // Ejecutar la consulta XPath
                 ResourceSet resultadoConsulta = servicioXPath.query(consulta);
                 ResourceIterator iterador = resultadoConsulta.getIterator();
 
+                // Verificar si la consulta devuelve resultados
                 if (!iterador.hasMoreResources()) {
                     System.err.println(">>> ERROR: La consulta no devuelve ningún resultado o está mal escrita");
                     return; // Evitar continuar si no hay resultados
                 }
 
+                // Escribir los resultados en un archivo XML
                 FileWriter fw = new FileWriter("target/" + nombreArchivo + ".xml");
                 Resource recurso = null;
 
@@ -41,14 +50,19 @@ public class GenerarXMLDatos {
 
                 fw.close();
 
+                // Transformar el documento XML para que tenga una estructura legible
                 try {
                     Transformer transformer = TransformerFactory.newInstance().newTransformer();
                     Source source = new StreamSource(new StringReader(recurso.getContent().toString()));
                     StreamResult result = new StreamResult(new File("target/" + nombreArchivo + ".xml"));
+
+                    // Configurar propiedades de salida para la transformación
                     transformer.setOutputProperty(OutputKeys.METHOD, "xml");
                     transformer.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
                     transformer.setOutputProperty(OutputKeys.INDENT, "yes");
                     transformer.setOutputProperty("{http:xml.apache.org/xslt}indent-amount", "4");
+
+                    // Realizar la transformación y escribir el resultado en un archivo
                     transformer.transform(source, result);
                 } catch (TransformerException e) {
                     System.err.println(">>> Error al transformar el documento XML: " + e.getMessage());
