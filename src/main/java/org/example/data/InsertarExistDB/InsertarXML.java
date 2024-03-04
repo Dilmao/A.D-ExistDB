@@ -12,7 +12,6 @@ public class InsertarXML {
 
     // Metodo para insertar los datos XML a la colecion de ExistDB
     public static void insertarXML(){
-        // TODO eliminar el XML innecesario (proyectos o proyectosFP)
         // Archivos XML que se van a insertar en la colección
         File familiaXML = new File("src/main/resources/familias.xml");
         File centrosXML = new File("src/main/resources/CentrosCFGMyS.xml");
@@ -48,7 +47,7 @@ public class InsertarXML {
                 col.storeResource(resource);
 
                 // Se imprime un mensaje de éxito al insertar el documento
-                System.out.println("Documento " + archivoXML.getName() + "insertado correctamente.");
+                System.out.println("Documento " + archivoXML.getName() + " insertado correctamente.");
             } catch (XMLDBException e) {
                 System.err.println(">>> Error al intentar insertar el documento " + archivoXML.getName() + ": " + e.getMessage());
             }
